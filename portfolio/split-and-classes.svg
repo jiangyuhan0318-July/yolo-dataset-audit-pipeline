@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="580" viewBox="0 0 1000 580">
+<rect width="1000" height="580" fill="#101d30"/>
+<text x="55" y="65" fill="white" font-family="Arial" font-size="30">Training-ready dataset: splits &amp; class balance</text>
+<text x="55" y="105" fill="#a6bdd6" font-family="Arial" font-size="18">Synthetic YOLO detection sample · measured pipeline results</text>
+<text x="55" y="184" fill="#e5edf8" font-family="Arial" font-size="20">Train images</text>
+<rect x="410" y="160" width="216" height="34" rx="5" fill="#39c3bd"/>
+<text x="646" y="185" fill="white" font-family="Arial" font-size="21">9</text>
+<text x="55" y="246" fill="#e5edf8" font-family="Arial" font-size="20">Val images</text>
+<rect x="410" y="222" width="72" height="34" rx="5" fill="#39c3bd"/>
+<text x="502" y="247" fill="white" font-family="Arial" font-size="21">3</text>
+<text x="55" y="308" fill="#e5edf8" font-family="Arial" font-size="20">Test images</text>
+<rect x="410" y="284" width="24" height="34" rx="5" fill="#39c3bd"/>
+<text x="454" y="309" fill="white" font-family="Arial" font-size="21">1</text>
+<text x="55" y="370" fill="#e5edf8" font-family="Arial" font-size="20">blue_box</text>
+<rect x="410" y="346" width="144" height="34" rx="5" fill="#39c3bd"/>
+<text x="574" y="371" fill="white" font-family="Arial" font-size="21">6</text>
+<text x="55" y="432" fill="#e5edf8" font-family="Arial" font-size="20">orange_box</text>
+<rect x="410" y="408" width="144" height="34" rx="5" fill="#39c3bd"/>
+<text x="574" y="433" fill="white" font-family="Arial" font-size="21">6</text>
+<text x="55" y="545" fill="#a6bdd6" font-family="Arial" font-size="17">Original files preserved • Valid pairs copied • Seed 42</text></svg>

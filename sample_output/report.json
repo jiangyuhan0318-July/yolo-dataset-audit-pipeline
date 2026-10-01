@@ -1,0 +1,76 @@
+{
+  "images_found": 18,
+  "labels_found": 18,
+  "valid_pairs": 13,
+  "excluded_images": 5,
+  "background_images": 1,
+  "class_instances": {
+    "blue_box": 6,
+    "orange_box": 6
+  },
+  "issues": [
+    {
+      "file": "missing_image.txt",
+      "reason": "missing_image"
+    },
+    {
+      "file": "bad_box.txt",
+      "line": 1,
+      "reason": "box_outside_image"
+    },
+    {
+      "file": "bad_class.txt",
+      "line": 1,
+      "reason": "invalid_class_id"
+    },
+    {
+      "file": "bad_format.txt",
+      "line": 1,
+      "reason": "expected_five_fields"
+    },
+    {
+      "file": "missing_label.png",
+      "reason": "missing_label"
+    },
+    {
+      "file": "nonfinite.txt",
+      "line": 1,
+      "reason": "nonfinite_coordinate"
+    }
+  ],
+  "issue_counts": {
+    "missing_image": 1,
+    "box_outside_image": 1,
+    "invalid_class_id": 1,
+    "expected_five_fields": 1,
+    "missing_label": 1,
+    "nonfinite_coordinate": 1
+  },
+  "seed": 42,
+  "requested_ratios": [
+    0.7,
+    0.2,
+    0.1
+  ],
+  "splits": {
+    "train": [
+      "item_06.png",
+      "item_05.png",
+      "item_01.png",
+      "item_08.png",
+      "item_11.png",
+      "item_04.png",
+      "item_10.png",
+      "item_07.png",
+      "item_02.png"
+    ],
+    "val": [
+      "item_03.png",
+      "background.png",
+      "item_00.png"
+    ],
+    "test": [
+      "item_09.png"
+    ]
+  }
+}

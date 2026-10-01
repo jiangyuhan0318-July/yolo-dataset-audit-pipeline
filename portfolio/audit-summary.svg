@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="580" viewBox="0 0 1000 580">
+<rect width="1000" height="580" fill="#101d30"/>
+<text x="55" y="65" fill="white" font-family="Arial" font-size="30">YOLO Dataset Audit &amp; Preparation Pipeline</text>
+<text x="55" y="105" fill="#a6bdd6" font-family="Arial" font-size="18">Synthetic YOLO detection sample · measured pipeline results</text>
+<text x="55" y="184" fill="#e5edf8" font-family="Arial" font-size="20">Input images</text>
+<rect x="410" y="160" width="432" height="34" rx="5" fill="#39c3bd"/>
+<text x="862" y="185" fill="white" font-family="Arial" font-size="21">18</text>
+<text x="55" y="246" fill="#e5edf8" font-family="Arial" font-size="20">Accepted image / label pairs</text>
+<rect x="410" y="222" width="312" height="34" rx="5" fill="#39c3bd"/>
+<text x="742" y="247" fill="white" font-family="Arial" font-size="21">13</text>
+<text x="55" y="308" fill="#e5edf8" font-family="Arial" font-size="20">Excluded images</text>
+<rect x="410" y="284" width="120" height="34" rx="5" fill="#39c3bd"/>
+<text x="550" y="309" fill="white" font-family="Arial" font-size="21">5</text>
+<text x="55" y="370" fill="#e5edf8" font-family="Arial" font-size="20">Issues (including orphan label)</text>
+<rect x="410" y="346" width="144" height="34" rx="5" fill="#39c3bd"/>
+<text x="574" y="371" fill="white" font-family="Arial" font-size="21">6</text>
+<text x="55" y="545" fill="#a6bdd6" font-family="Arial" font-size="17">Original files preserved • Valid pairs copied • Seed 42</text></svg>
